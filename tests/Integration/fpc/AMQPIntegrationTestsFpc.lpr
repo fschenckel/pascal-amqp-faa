@@ -36,6 +36,7 @@ uses
   AMQP.ConsumeIntegrationTests,
   AMQP.ConsumerErrorIntegrationTests,
   AMQP.DisconnectInfoIntegrationTests,
+  AMQP.TimeoutIntegrationTests,
   AMQP.ReconnectIntegrationTests,
   AMQP.TlsIntegrationTests,
   AMQP.ReviewRegressionTests;
